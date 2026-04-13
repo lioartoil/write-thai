@@ -1,0 +1,10 @@
+{
+  "name": "write-thai",
+  "version": "0.1.0",
+  "description": "Thai prose refinement skill for Claude Code — strips AI writing patterns, makes Thai text sound natural",
+  "author": "lioartoil",
+  "license": "MIT",
+  "skills": ["skills/write"],
+  "keywords": ["thai", "writing", "prose", "refinement", "ai-patterns", "claude-code"],
+  "repository": "https://github.com/lioartoil/write-thai"
+}
